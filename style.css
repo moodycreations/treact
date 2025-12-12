@@ -1730,7 +1730,7 @@ footer {
 }
 
 .header__content{
-    max-width: 100%;
+    max-width: 50%;
     align-items: center;
     justify-content: center;
 }
